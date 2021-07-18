@@ -1,0 +1,14 @@
+
+li{
+    margin-left: 10px;
+    font-weight: bold;
+    
+}
+
+.container-fluid{
+    background-color: lavender;
+}
+
+li:hover{
+    color: white;
+}

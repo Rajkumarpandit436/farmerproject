@@ -1,0 +1,27 @@
+.bg-custom{
+    background-color: #303f9f;
+}
+
+.navbar .nav-item:hover .nav-link{
+    background-color: white;
+    color: blue;
+    border-radius: 15px;
+}
+
+#navbarSupportedContent{
+    padding-left: 30px;
+}
+
+.nav-item{
+    padding-left: 30px;
+}
+
+.fas{
+    color: white;
+}
+
+#type{
+    text-align: center;
+    padding: 30px;
+    
+}
